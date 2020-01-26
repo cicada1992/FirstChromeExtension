@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "es2015",
+    "target": "es5",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "alwaysStrict": true,
+    "experimentalDecorators": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "skipLibCheck": true,
+    "lib": ["dom", "es2015", "es2015.iterable"],
+    "plugins": [{ "name": "typescript-styled-plugin" }],
+    "outDir": "./dist"
+  },
+  "exclude": ["dist", "node_modules", "out"]
+}
