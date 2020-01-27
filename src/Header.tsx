@@ -3,16 +3,17 @@ import styled from "styled-components";
 
 import { v3Colors } from "./lib/styleColors";
 
-const Container = styled.div``;
+const Container = styled.div`
+  padding: 10px 15px;
+`;
 
 const Title = styled.div`
-  padding: 10px 10px 2px 10px;
+  margin-bottom: 2px;
   font-size: 16px;
   font-weight: bold;
 `;
 
 const SubTitle = styled.div`
-  padding: 0 10px;
   font-size: 10px;
   color: ${v3Colors.N90};
 `;

@@ -6,7 +6,7 @@ import RadioButton from "./components/RadioButton";
 import { useAppContext } from "./hooks/useAppContext";
 
 const Controller = styled.div`
-  padding: 15px 10px;
+  padding: 10px 15px;
 `;
 
 const ObjectiveController: React.FC = () => {
