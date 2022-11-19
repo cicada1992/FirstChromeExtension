@@ -46,7 +46,7 @@
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.18.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "install": "^0.13.0",
     "npm": "^6.13.6",
     "prettier": "^1.19.1",
@@ -54,7 +54,7 @@
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.5",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-crx": "^1.0.7",
     "webpack-merge": "^4.2.2",
     "zip-webpack-plugin": "^3.0.0"
